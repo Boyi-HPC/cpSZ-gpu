@@ -1,7 +1,9 @@
 # cpSZ
 Critical point preserving for vector fields
 
-# Installation
+## Installation (CPU version)
+
+Run the following script to build and install the CPU version of cpSZ:
 sh build_script.sh <br>
 Dependancies: ZSTD
 
